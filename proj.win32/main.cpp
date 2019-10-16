@@ -12,7 +12,7 @@ int APIENTRY _tWinMain(HINSTANCE hInstance,
     UNREFERENCED_PARAMETER(hPrevInstance);
     UNREFERENCED_PARAMETER(lpCmdLine);
 
-    // create the application instance
+    // create the application instance  renwenhao
     AppDelegate app;
     return Application::getInstance()->run();
 }
